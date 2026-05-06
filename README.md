@@ -1,5 +1,3 @@
-# Huong Hua Co. Ltd. Website Project
-
 This README provides detailed information about the English version of the Huong Hua Co. Ltd. website. The website is tailored for a company in HCMC, Vietnam specializing in bathroom equipment design and construction, offering comprehensive insights into the company's services, portfolio, career opportunities, and more.
 
 It is designed to help the company expand its online presence, attract new (and foreign) clients, and showcase its expertise in bathroom solutions. The website features a clean, modern design with a user-friendly interface, making it easy for visitors to navigate and explore the company's offerings.
@@ -26,16 +24,6 @@ It is designed to help the company expand its online presence, attract new (and 
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
-
-## Overview
-
-Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ranging from design to installation and renovation. The website serves as a digital platform to showcase the company's expertise, project portfolio, client testimonials, and career opportunities.
-
-## User Interface
-
-<p align="center">
-  <img src="images/ui.png" alt="User Interface" width="100%" alt="User Interface" style="border-radius: 8px"
-</p>
 
 ## Features
 
