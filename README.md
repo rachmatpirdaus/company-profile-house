@@ -25,7 +25,7 @@
 
 ### 1. Home Page
 
-- Introduction to Huong Hua Co. Ltd.
+- Introduction to Kost Hunters
 - Quick navigation links to various sections of the website.
 
 ### 2. About Us
